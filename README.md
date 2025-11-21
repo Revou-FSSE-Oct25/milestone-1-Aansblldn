@@ -7,33 +7,9 @@ Portfolio Website ini saya buat sebagai dokumentasi perjalanan saya dalam belaja
 
 ---
 
-## 🧍‍♂️ About Me
-Saya **Aan Sabilladin**, seorang **Chemist** dengan pengalaman di **laboratorium Quality dan Research Development**.  
-Saat ini saya sedang mempelajari **Software Engineering** dengan tujuan untuk beralih karier ke dunia teknologi. Saya percaya latar belakang sains memberi saya kemampuan analitis dan logis yang kuat dalam memahami konsep pemrograman dan pengembangan sistem.
-
----
-
-## 🚀 Learning Journey
-Perjalanan belajar saya dimulai dari hal-hal dasar seperti:
-- Menggunakan **Visual Studio Code (VSCode)** sebagai editor utama  
-- Mengenal **Command Line Interface (CLI)** dan **Terminal**  
-- Mempelajari **Git** untuk version control dan kolaborasi proyek  
-- Membangun struktur web dengan **HTML**
-- Memulai deploy dan penerapan **Artificial Intelligence**  
-
-Saya juga belajar cara melakukan **deployment melalui GitHub**, agar proyek yang saya buat dapat dijalankan dan diakses secara online.  
-Selain itu, saya mulai mengenal **Artificial Intelligence (AI)** untuk membantu dalam penyusunan logika program dan pengembangan website secara lebih efisien.
-
----
-
 ## 🧩 Project-Based Learning
 Untuk memperdalam pemahaman, saya menerapkan metode **Project-Based Learning** — belajar dengan membuat proyek nyata.  
 Melalui pendekatan ini, saya dapat memahami konsep secara langsung, melatih problem solving, dan meningkatkan kemampuan teknis secara bertahap.
-
-**Beberapa proyek yang telah saya kerjakan:**
-1. 🌐 *Personal Portfolio Website* — Menampilkan profil, perjalanan belajar, dan dokumentasi proyek.  
-2. ⚙️ *Daily life Website* — Website sederhana berbasis web untuk menampilkan kegiatan sehari-hari.  
-3. 🧭 *Vacation Trip Website* — Membuat Website HTML untuk membuka bisnis open trip vacation dengan fitur form yang akan diisi client.
 
 ---
 
@@ -42,7 +18,7 @@ Beberapa tools dan teknologi yang saya pelajari dan gunakan:
 - **VSCode**
 - **Git & GitHub**
 - **HTML & CSS**
-- **AI-assisted development tools**
+- **Tailwind CSS**
 
 ---
 
@@ -50,7 +26,7 @@ Beberapa tools dan teknologi yang saya pelajari dan gunakan:
 Jika ingin berdiskusi atau berkolaborasi, silakan hubungi saya melalui:
 - 📧 Email: *Aansabilladin@gmail.com*  
 - 🔗 LinkedIn: *[Aan sabilladin](https://id.linkedin.com/in/aansabilladin)*  
-- 🌍 Website: *[Portfolio Website](https://revou-fsse-oct25.github.io/milestone-1-Aansblldn/index.html)*  
+- 🌍 Website: *[Portfolio Website](https://revou-fsse-oct25.github.io/milestone-1-Aansblldn/)*  
 
 ---
 
