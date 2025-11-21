@@ -13,6 +13,10 @@ Melalui pendekatan ini, saya dapat memahami konsep secara langsung, melatih prob
 
 ---
 
+## Responsive Website
+<img width="468" height="1145" alt="image" src="https://github.com/user-attachments/assets/1f5411d3-d235-4ca3-a52c-c3518777910a" />
+
+
 ## 🛠️ Tools & Technologies
 Beberapa tools dan teknologi yang saya pelajari dan gunakan:
 - **VSCode**
