@@ -2,6 +2,9 @@
 ----------------------------------------------------------------------------------------------
 # Aan Sabilladin - Portfolio Website
 
+<img width="848" height="1091" alt="image" src="https://github.com/user-attachments/assets/ce7825b4-2768-4d6c-a22c-57fdd38bc40f" />
+
+
 Selamat datang di portfolio pribadi saya!  
 Portfolio Website ini saya buat sebagai dokumentasi perjalanan saya dalam belajar **Software Engineering**, mulai dari dasar hingga pengaplikasian melalui proyek belajar sederhana.
 
